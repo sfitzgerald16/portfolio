@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Open+Sans+Condensed:300,700');
+
+
+/*NAV BEGINS*/
+.anton-text{
+  font-family: 'Anton', sans-serif;
+}
+#menu{
+  background: #333333;
+  height: 75px;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus{
+  color: white;
+  background-color: #333333;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.active>a:hover{
+  background: #4C4C4C;
+}
+
+.fa{
+  color: #FFFFFF;
+}
+
+#right-nav-icons{
+  display: flex;
+  height: 75px;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.white-text{
+  color: white;
+}
+
+/*NAV ENDS*/
+
+/*BODY BEGINS*/
+
+.sans-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.75em;
+    background-color: white;
+}
+
+.row-border{
+  border: 1px solid #cccccc;
+}
+
+#biography{
+  padding: 20px 0 20px 0;
+}
+
+.thumbnail,a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-decoration: none;
+  position: relative;
+  z-index: 0;
+}
+
+#websites-header{
+  height: 100px;
+  margin-top: 20px;
+}
+
+.thumbnail-image-box {
+    padding: 0 0 10px 0;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+
+.overlay{
+  /*background-color: red;*/
+  height: 274px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  opacity: .5;
+  border-radius: 5px;
+  /*display: none;*/
+}
+
+.overlay:hover {
+  background-color: #000000;
+  height: 274px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  opacity: .5;
+  border-radius: 5px;
+  /*display: block;*/
+}
+
+.row{
+  z-index: -1;
+}
+
+#lost-cats-web{
+  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostcatsthumbnail.jpg');
+  background-size: cover;
+}
+
+#lost-dogs-web{
+  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostdogsthumbnail.jpg');
+  background-size: cover;
+}
+
+#paper-hearts-web{
+  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/paperheartsthumbnail.jpg');
+  background-size: cover;
+}
+
+#thrivent-facebook{
+  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/thriventFBthumbnail.jpg');
+  background-size: cover;
+}
+
+#lost-dogs-facebook{
+  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostdogsFBthumbnail.jpg');
+  background-size: cover;
+}
+
+#lost-dogs-instagram{
+  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostdogsinstagramthumb.jpg');
+  background-size: cover;
+}
+/*BODY ENDS*/
+
+/*FOOTER BEGINS*/
+
+#footercontent{
+  height: 100px;
+  color: #333;
+  font-size: 7pt;
+  padding-top: 42px;
+}
+/*FOOTER ENDS*/
+
+
+/*CONTACT PAGE BEGIN*/
+
+#contact-form-header{
+  padding-top: 8%;
+}
+
+#contact-me{
+  padding-top: 5%;
+}
+
+#contact-send{
+  margin-top: 20px;
+  padding: 5px 20px 5px 20px;
+  background-color: #808080;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 12pt;
+  font-weight: bolder;
+  color: black;
+}
+
+label.contact{
+  color: #333;
+  font-size: 16pt;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: lighter;
+}
+/*CONTACT PAGE END*/
