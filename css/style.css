@@ -34,6 +34,9 @@
   color: white;
 }
 
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header{
+  margin-left: 0;
+}
 /*NAV ENDS*/
 
 /*BODY BEGINS*/
