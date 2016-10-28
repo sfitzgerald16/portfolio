@@ -101,17 +101,17 @@
 }
 
 #lost-cats-web{
-  background-image: url('../images/lostcatsthumbnail.jpg');
+  background-image: url('../images/lostcatsthumbnail.JPG');
   background-size: cover;
 }
 
 #lost-dogs-web{
-  background-image: url('../images/lostdogsthumbnail.jpg');
+  background-image: url('../images/lostdogsthumbnail.JPG');
   background-size: cover;
 }
 
 #paper-hearts-web{
-  background-image: url('../images/paperheartsthumbnail.jpg');
+  background-image: url('../images/paperheartsthumbnail.JPG');
   background-size: cover;
 }
 
@@ -121,7 +121,7 @@
 }
 
 #restaurante-web{
-  background-image: url('../images/restaurantethumb.jpg');
+  background-image: url('../images/restaurantethumb.JPG');
   background-size: cover;
 }
 
@@ -131,17 +131,17 @@
 }
 
 #thrivent-facebook{
-  background-image: url('../images/thriventFBthumbnail.jpg');
+  background-image: url('../images/thriventFBthumbnail.JPG');
   background-size: cover;
 }
 
 #lost-dogs-facebook{
-  background-image: url('../images/lostdogsFBthumbnail.jpg');
+  background-image: url('../images/lostdogsFBthumbnail.JPG');
   background-size: cover;
 }
 
 #lost-dogs-instagram{
-  background-image: url('../images/lostdogsinstagramthumb.jpg');
+  background-image: url('../images/lostdogsinstagramthumb.JPG');
   background-size: cover;
 }
 /*BODY ENDS*/
