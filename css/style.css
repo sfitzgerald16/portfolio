@@ -101,32 +101,47 @@
 }
 
 #lost-cats-web{
-  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostcatsthumbnail.jpg');
+  background-image: url('../images/lostcatsthumbnail.jpg');
   background-size: cover;
 }
 
 #lost-dogs-web{
-  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostdogsthumbnail.jpg');
+  background-image: url('../images/lostdogsthumbnail.jpg');
   background-size: cover;
 }
 
 #paper-hearts-web{
-  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/paperheartsthumbnail.jpg');
+  background-image: url('../images/paperheartsthumbnail.jpg');
+  background-size: cover;
+}
+
+#petstore-web{
+  background-image: url('../images/petstorethumb.JPG');
+  background-size: cover;
+}
+
+#restaurante-web{
+  background-image: url('../images/restaurantethumb.jpg');
+  background-size: cover;
+}
+
+#saint-nazareth-web{
+  background-image: url('../images/stnazareththumbnail.JPG');
   background-size: cover;
 }
 
 #thrivent-facebook{
-  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/thriventFBthumbnail.jpg');
+  background-image: url('../images/thriventFBthumbnail.jpg');
   background-size: cover;
 }
 
 #lost-dogs-facebook{
-  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostdogsFBthumbnail.jpg');
+  background-image: url('../images/lostdogsFBthumbnail.jpg');
   background-size: cover;
 }
 
 #lost-dogs-instagram{
-  background-image: url('http://www.californialostdogs.com/wp-content/uploads/2016/10/lostdogsinstagramthumb.jpg');
+  background-image: url('../images/lostdogsinstagramthumb.jpg');
   background-size: cover;
 }
 /*BODY ENDS*/
